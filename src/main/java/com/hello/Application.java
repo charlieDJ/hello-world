@@ -1,4 +1,4 @@
-package com.hello.demo;
+package com.hello;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
